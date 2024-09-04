@@ -10,7 +10,6 @@ When reading messages for a url, an api call is made and a json object of messag
 
 When someone sends a message, an api call is made and the server sends it on their behalf. This is once again because of v2 limitations and because you can't pass the window.ethereum signer in an api call. Yes, this isn't ideal. Once a web v3 sdk is released everything will be rewritten to have users sign & send their own messages. 
 
-Now let's inspect the code: 
-
+Read [index.js](https://github.com/leouax/attestationstation-xmtp-backend/blob/main/index.js) to view the code 
 
 
