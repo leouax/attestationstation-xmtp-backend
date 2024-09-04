@@ -34,6 +34,7 @@ fs.readFile('storage.txt', 'utf8', (err, data) => {
 
 
 // Function to create a wallet from a private key
+// used to create the main signer wallet
 async function createWallet() {
   let key = process.env.KEY;
   if (!key) {
