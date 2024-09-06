@@ -1,0 +1,7 @@
+{
+  "youtube.com": "788174f24fbc0b9c6f6a78e19705c3e0",
+  "x.com": "e6cd8c2e2761f925179d642e74bd0d5f",
+  "amazon.com": "f784cabeef0ee6e414b7108b30faab03",
+  "google.com": "9ce1b97b74c4636f72dfe7f0d8de29ed",
+  "ethglobal.com": "a29a563539488fc0d0d9e979832f6947"
+}
